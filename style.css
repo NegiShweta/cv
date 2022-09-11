@@ -1,0 +1,15 @@
+body{
+    margin:0;
+}
+.container{
+    padding: 16px;
+}
+.intro{
+    margin: -16px;
+    padding: 16px;
+    background-color: black;
+    text-shadow: 10px;
+    color:white;
+    
+}
+
